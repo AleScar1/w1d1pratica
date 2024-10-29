@@ -14,5 +14,11 @@ header {
 
 #Part {
     background-color: rgba(255, 255, 0, 0.89);
+
+}
+
+#main {
+    width: 50%;
+    margin: auto;
     
 }
