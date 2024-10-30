@@ -32,11 +32,11 @@ h1 {
 }
 
 #imgMain {
-    width: 600px;
+    width: 550px;
     height: 330px;
-    margin: auto;
     border-radius: 10px;
-    align-items: center;
+    margin: auto;
+    display: block;
 }
 
 #SallyVegas {    
@@ -47,3 +47,43 @@ h1 {
 #divFooter {
     text-align: center;
 }   
+
+#TestoSopraImg {
+    text-align: center;
+    font-size: 0.9em;
+}
+
+#h2Main2 {
+    text-align: left;
+    display: block;
+    font-weight: normal;
+}
+
+#titololistafocaccia {
+    font-weight: bold;
+}   
+    
+#listafocaccia {
+    font-size: 0.8em;
+} 
+
+#listafocacciaElementi {    
+    font-weight: normal;
+    padding: 0.5%;               
+} 
+
+#toppingElementi {            
+    font-weight: normal;
+    padding: 0.5%;    
+}
+
+#titololistatopping {
+    font-weight: bold;
+}
+
+#hrMain2 {    
+    width: 110%;
+    border: 0.5px solid rgb(239, 234, 234);
+    margin: 18px;
+}
+
