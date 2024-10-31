@@ -21,7 +21,7 @@ header {
 }
 
 #main {
-    width: 60%;
+    width: 43%;
     margin: auto;
     margin-top: 30px;
     
@@ -41,6 +41,8 @@ h1 {
 
 #SallyVegas {    
     text-align: center;
+    font-size: 0.8em;
+    color: #3b817e;
 }   
 
 
@@ -87,3 +89,42 @@ h1 {
     margin: 18px;
 }
 
+#LineaVerticale {
+    width: 1px;
+    height: 15px;
+    background-color: rgb(237, 235, 163);
+    display: inline-block;
+}
+
+#coloreTestFeatureIn {
+    color: rgb(57, 143, 229);
+}
+
+#testLineaVerticaleGialla {
+    width: 2px;
+    height: 5px;
+}
+
+#divMainLineaVerticale {
+    display: flexbox;
+}   
+
+#pMainFEATURED{
+    font-weight: bold;
+    display: inline;  
+    color: red;  
+    
+}
+
+#lineaVerticale {
+    width: 1px;
+    height: 15px;
+    background-color: rgb(237, 235, 163);
+}
+
+#pMainFreshCranberry {
+    font-size: 1.1em;
+    text-decoration: underline;
+    color: #3b817e;
+    margin: 0;
+}
